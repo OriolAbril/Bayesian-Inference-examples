@@ -1,0 +1,14 @@
+Dataset:  spirits.dat
+
+Source: J. Durbin and G.S. Watson (1951). "Testing for Serial Correlation in
+Least Squares Regression. II," Biometrika, Vol. 38 #1/2 pp. 159-177
+
+Description: Indexed Consumption, Income, and Price of Spirits in UK
+ for years 1870-1938
+
+ Variables/Columns
+ Year 1-8
+ Consumption  10-16
+ Income    18-24
+ Price  26-32
+ price/income  33-40
